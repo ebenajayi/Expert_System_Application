@@ -9,4 +9,4 @@ The second project (Bar_Stock_Classification.clp) classifies the bar stocks acco
                                       • length= width = height (cubes)
 				      
 				      
-The third project (Car_Fault_Diagnosis.clp) helps diagnose a car by checking various items using JESS  The program displays all the possible reasons why a car will fail to run, with or without known facts.
+The third project (Car_Fault_Diagnosis.clp) helps diagnose a car by checking various items using JESS  The program displays all the possible reasons why a car will fail to run, with or without known facts..
