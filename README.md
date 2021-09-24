@@ -1,9 +1,6 @@
 # Expert_Systems_Application
 This project encompasses the application of expert systems in 3 different domains. 
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Tex
-
 The first project (Traffic_Alert.clp) alerts a robot what to do when it encounters a traffic using JESS. For this project,th ree templates were defined, namely, light, walk-sign, and status with various slots for the light which is indicated with the usual traffic lights. The status of the robot which is assumed to either be driving or walking (based on the way the code was written). Several rules were defined based on the color of the traffic light and the walk-signs (walk or don’t-walk sign).
 
 The second project (Bar_Stock_Classification.clp) classifies the bar stocks according to their dimensioning using JESS. The program displays the stock ID and all stock dimensions that match the following definition
